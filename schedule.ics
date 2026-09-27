@@ -4,195 +4,10 @@ PRODID:-//AltSTU Schedule//RU
 X-WR-CALNAME:Расписание АлтГТУ (ПС-61)
 X-WR-TIMEZONE:Asia/Barnaul
 BEGIN:VEVENT
-SUMMARY:Введение в компьютерное моделирова
- ние (л.р.\, подгруппа А)
-DTSTART;TZID=Asia/Barnaul:20260921T151500
-DTEND;TZID=Asia/Barnaul:20260921T164500
-UID:20260921T1515_2556794811518922188@altstu
-DESCRIPTION:Преподаватель: Соловьев В.А.старш
- ий преподаватель\nАудитория: 426-а ГК
-LOCATION:426-а ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Информатика (л.р.\, подгруппа Б)
-DTSTART;TZID=Asia/Barnaul:20260921T151500
-DTEND;TZID=Asia/Barnaul:20260921T164500
-UID:20260921T1515_1805570791822646301@altstu
-DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
- ющий кафедрой\nАудитория: 264 ГК
-LOCATION:264 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Введение в компьютерное моделирова
- ние (л.р.\, подгруппа А)
-DTSTART;TZID=Asia/Barnaul:20260921T170500
-DTEND;TZID=Asia/Barnaul:20260921T183500
-UID:20260921T1705_2556794811518922188@altstu
-DESCRIPTION:Преподаватель: Соловьев В.А.старш
- ий преподаватель\nАудитория: 426-а ГК
-LOCATION:426-а ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Информатика (л.р.\, подгруппа Б)
-DTSTART;TZID=Asia/Barnaul:20260921T170500
-DTEND;TZID=Asia/Barnaul:20260921T183500
-UID:20260921T1705_1805570791822646301@altstu
-DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
- ющий кафедрой\nАудитория: 264 ГК
-LOCATION:264 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Физическая культура и спорт (пр.)
-DTSTART;TZID=Asia/Barnaul:20260922T095500
-DTEND;TZID=Asia/Barnaul:20260922T112500
-UID:20260922T0955_7568120417446434508@altstu
-DESCRIPTION:Преподаватель: Мусатова Е.Г.старш
- ий преподаватель\nАудитория: кабинет Спо
- ртманеж
-LOCATION:кабинет Спортманеж
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Физическая культура и спорт (пр.)
-DTSTART;TZID=Asia/Barnaul:20260922T095500
-DTEND;TZID=Asia/Barnaul:20260922T112500
-UID:20260922T0955_7568120417446434508@altstu
-DESCRIPTION:Преподаватель: Бердышева Е.В.стар
- ший преподаватель\nАудитория: кабинет Сп
- ортманеж
-LOCATION:кабинет Спортманеж
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Информатика (л.)
-DTSTART;TZID=Asia/Barnaul:20260922T113500
-DTEND;TZID=Asia/Barnaul:20260922T130500
-UID:20260922T1135_7952153400647596552@altstu
-DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
- ющий кафедрой\nАудитория: 517 ГК
-LOCATION:517 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Основы российской государственност
- и (пр.)
-DTSTART;TZID=Asia/Barnaul:20260922T133500
-DTEND;TZID=Asia/Barnaul:20260922T150500
-UID:20260922T1335_1748622448536284898@altstu
-DESCRIPTION:Преподаватель: Цыганенко Н.В.доце
- нт\nАудитория: 205 ПК
-LOCATION:205 ПК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:История России (пр.)
-DTSTART;TZID=Asia/Barnaul:20260922T151500
-DTEND;TZID=Asia/Barnaul:20260922T164500
-UID:20260922T1515_6722988967584676326@altstu
-DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
- т\nАудитория: 407 В
-LOCATION:407 В
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Химия (л.р.\, подгруппа А)
-DTSTART;TZID=Asia/Barnaul:20260923T095500
-DTEND;TZID=Asia/Barnaul:20260923T112500
-UID:20260923T0955_5284265015432361067@altstu
-DESCRIPTION:Преподаватель: Чернова Н.П.доцент
- \nАудитория: 506 ГК
-LOCATION:506 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Компьютерная графика (л.)
-DTSTART;TZID=Asia/Barnaul:20260923T113500
-DTEND;TZID=Asia/Barnaul:20260923T130500
-UID:20260923T1135_8206252164968503931@altstu
-DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
- ент\nАудитория: 518 ГК
-LOCATION:518 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Иностранный язык (пр.\, подгруппа А)
-DTSTART;TZID=Asia/Barnaul:20260924T095500
-DTEND;TZID=Asia/Barnaul:20260924T112500
-UID:20260924T0955_8908706067075102780@altstu
-DESCRIPTION:Преподаватель: Беседина В.Г.завед
- ующий кафедрой\nАудитория: 537-5 ГК
-LOCATION:537-5 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Иностранный язык (пр.\, подгруппа Б)
-DTSTART;TZID=Asia/Barnaul:20260924T095500
-DTEND;TZID=Asia/Barnaul:20260924T112500
-UID:20260924T0955_606867170976024877@altstu
-DESCRIPTION:Преподаватель: Манухина И.А.доцен
- т\nАудитория: 251 ГК
-LOCATION:251 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Иностранный язык (пр.\, подгруппа В)
-DTSTART;TZID=Asia/Barnaul:20260924T095500
-DTEND;TZID=Asia/Barnaul:20260924T112500
-UID:20260924T0955_2993403685449457534@altstu
-DESCRIPTION:Преподаватель: Исакова О.В.доцент
- \nАудитория: 537-4 ГК
-LOCATION:537-4 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Инженерная графика (л.)
-DTSTART;TZID=Asia/Barnaul:20260924T113500
-DTEND;TZID=Asia/Barnaul:20260924T130500
-UID:20260924T1135_1352577959844751071@altstu
-DESCRIPTION:Преподаватель: Шишковская И.Л.доц
- ент\nАудитория: 205 Г
-LOCATION:205 Г
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:История России (л.)
-DTSTART;TZID=Asia/Barnaul:20260924T133500
-DTEND;TZID=Asia/Barnaul:20260924T150500
-UID:20260924T1335_5900282980968249924@altstu
-DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
- т\nАудитория: 205 Г
-LOCATION:205 Г
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Инженерная графика (л.р.)
-DTSTART;TZID=Asia/Barnaul:20260925T081500
-DTEND;TZID=Asia/Barnaul:20260925T094500
-UID:20260925T0815_1207584087664854776@altstu
-DESCRIPTION:Преподаватель: Малькова Н.Ю.старш
- ий преподаватель\nАудитория: 202 ГК
-LOCATION:202 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Инженерная графика (л.р.)
-DTSTART;TZID=Asia/Barnaul:20260925T081500
-DTEND;TZID=Asia/Barnaul:20260925T094500
-UID:20260925T0815_1207584087664854776@altstu
-DESCRIPTION:Преподаватель: Гурьев А.М.заведую
- щий кафедрой\nАудитория: 202 ГК
-LOCATION:202 ГК
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Высшая математика (пр.)
-DTSTART;TZID=Asia/Barnaul:20260925T095500
-DTEND;TZID=Asia/Barnaul:20260925T112500
-UID:20260925T0955_3261555725883910440@altstu
-DESCRIPTION:Преподаватель: Гринева Т.В.доцент
- \nАудитория: 506 В
-LOCATION:506 В
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Высшая математика (л.)
-DTSTART;TZID=Asia/Barnaul:20260925T113500
-DTEND;TZID=Asia/Barnaul:20260925T130500
-UID:20260925T1135_5685619820574342742@altstu
-DESCRIPTION:Преподаватель: Гринева Т.В.доцент
- \nАудитория: 506 В
-LOCATION:506 В
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Информатика (л.р.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20260928T113500
 DTEND;TZID=Asia/Barnaul:20260928T130500
-UID:20260928T1135_8023141596522223708@altstu
+UID:20260928T1135_501763479202378541@altstu
 DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
  ющий кафедрой\nАудитория: 264 ГК
 LOCATION:264 ГК
@@ -202,7 +17,7 @@ SUMMARY:Введение в компьютерное моделирова
  ние (л.р.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20260928T113500
 DTEND;TZID=Asia/Barnaul:20260928T130500
-UID:20260928T1135_4473241964590997086@altstu
+UID:20260928T1135_6671399570180790483@altstu
 DESCRIPTION:Преподаватель: Соловьев В.А.старш
  ий преподаватель\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -211,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Информатика (л.р.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20260928T133500
 DTEND;TZID=Asia/Barnaul:20260928T150500
-UID:20260928T1335_8023141596522223708@altstu
+UID:20260928T1335_501763479202378541@altstu
 DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
  ющий кафедрой\nАудитория: 264 ГК
 LOCATION:264 ГК
@@ -221,7 +36,7 @@ SUMMARY:Введение в компьютерное моделирова
  ние (л.р.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20260928T133500
 DTEND;TZID=Asia/Barnaul:20260928T150500
-UID:20260928T1335_4473241964590997086@altstu
+UID:20260928T1335_6671399570180790483@altstu
 DESCRIPTION:Преподаватель: Соловьев В.А.старш
  ий преподаватель\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -230,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура и спорт (пр.)
 DTSTART;TZID=Asia/Barnaul:20260929T095500
 DTEND;TZID=Asia/Barnaul:20260929T112500
-UID:20260929T0955_7568120417446434508@altstu
+UID:20260929T0955_4488889834367220007@altstu
 DESCRIPTION:Преподаватель: Мусатова Е.Г.старш
  ий преподаватель\nАудитория: кабинет Спо
  ртманеж
@@ -240,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура и спорт (пр.)
 DTSTART;TZID=Asia/Barnaul:20260929T095500
 DTEND;TZID=Asia/Barnaul:20260929T112500
-UID:20260929T0955_7568120417446434508@altstu
+UID:20260929T0955_4488889834367220007@altstu
 DESCRIPTION:Преподаватель: Бердышева Е.В.стар
  ший преподаватель\nАудитория: кабинет Сп
  ортманеж
@@ -250,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Химия (л.)
 DTSTART;TZID=Asia/Barnaul:20260929T113500
 DTEND;TZID=Asia/Barnaul:20260929T130500
-UID:20260929T1135_295455467812748143@altstu
+UID:20260929T1135_3329583135831952906@altstu
 DESCRIPTION:Преподаватель: Чернова Н.П.доцент
  \nАудитория: 516 ГК
 LOCATION:516 ГК
@@ -260,7 +75,7 @@ SUMMARY:Основы российской государственност
  и (пр.)
 DTSTART;TZID=Asia/Barnaul:20260929T133500
 DTEND;TZID=Asia/Barnaul:20260929T150500
-UID:20260929T1335_605883753649446507@altstu
+UID:20260929T1335_3250296862980120430@altstu
 DESCRIPTION:Преподаватель: Цыганенко Н.В.доце
  нт\nАудитория: 506 В
 LOCATION:506 В
@@ -269,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Высшая математика (л.)
 DTSTART;TZID=Asia/Barnaul:20260930T095500
 DTEND;TZID=Asia/Barnaul:20260930T112500
-UID:20260930T0955_9074113538537987915@altstu
+UID:20260930T0955_2276981487293765887@altstu
 DESCRIPTION:Преподаватель: Гринева Т.В.доцент
  \nАудитория: 520 ГК
 LOCATION:520 ГК
@@ -278,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:История России (пр.)
 DTSTART;TZID=Asia/Barnaul:20260930T113500
 DTEND;TZID=Asia/Barnaul:20260930T130500
-UID:20260930T1135_6722988967584676326@altstu
+UID:20260930T1135_7563289107136782546@altstu
 DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
  т\nАудитория: 407 В
 LOCATION:407 В
@@ -287,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Химия (пр.)
 DTSTART;TZID=Asia/Barnaul:20260930T133500
 DTEND;TZID=Asia/Barnaul:20260930T150500
-UID:20260930T1335_5267822674224461257@altstu
+UID:20260930T1335_4960396329554458215@altstu
 DESCRIPTION:Преподаватель: Вихарев А.А.доцент
  \nАудитория: 508 ГК
 LOCATION:508 ГК
@@ -296,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20261001T095500
 DTEND;TZID=Asia/Barnaul:20261001T112500
-UID:20261001T0955_8908706067075102780@altstu
+UID:20261001T0955_8624804413939391890@altstu
 DESCRIPTION:Преподаватель: Беседина В.Г.завед
  ующий кафедрой\nАудитория: 537-5 ГК
 LOCATION:537-5 ГК
@@ -305,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261001T095500
 DTEND;TZID=Asia/Barnaul:20261001T112500
-UID:20261001T0955_606867170976024877@altstu
+UID:20261001T0955_3635766520506679707@altstu
 DESCRIPTION:Преподаватель: Манухина И.А.доцен
  т\nАудитория: 251 ГК
 LOCATION:251 ГК
@@ -314,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа В)
 DTSTART;TZID=Asia/Barnaul:20261001T095500
 DTEND;TZID=Asia/Barnaul:20261001T112500
-UID:20261001T0955_2993403685449457534@altstu
+UID:20261001T0955_1381940644146950159@altstu
 DESCRIPTION:Преподаватель: Исакова О.В.доцент
  \nАудитория: 537-4 ГК
 LOCATION:537-4 ГК
@@ -324,7 +139,7 @@ SUMMARY:Введение в компьютерное моделирова
  ние (л.)
 DTSTART;TZID=Asia/Barnaul:20261001T113500
 DTEND;TZID=Asia/Barnaul:20261001T130500
-UID:20261001T1135_4918577011794443831@altstu
+UID:20261001T1135_6246687278125869212@altstu
 DESCRIPTION:Преподаватель: Пронин С.П.професс
  ор\nАудитория: 519 ГК
 LOCATION:519 ГК
@@ -334,7 +149,7 @@ SUMMARY:Компьютерная графика (л.р.\, подгрупп
  а А)
 DTSTART;TZID=Asia/Barnaul:20261001T133500
 DTEND;TZID=Asia/Barnaul:20261001T150500
-UID:20261001T1335_2288990365684330372@altstu
+UID:20261001T1335_7726467679046930868@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -343,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Химия (л.р.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261001T133500
 DTEND;TZID=Asia/Barnaul:20261001T150500
-UID:20261001T1335_5519912298408474148@altstu
+UID:20261001T1335_1865480031741341233@altstu
 DESCRIPTION:Преподаватель: Вихарев А.А.доцент
  \nАудитория: 506 ГК
 LOCATION:506 ГК
@@ -353,7 +168,7 @@ SUMMARY:Компьютерная графика (л.р.\, подгрупп
  а А)
 DTSTART;TZID=Asia/Barnaul:20261001T151500
 DTEND;TZID=Asia/Barnaul:20261001T164500
-UID:20261001T1515_2288990365684330372@altstu
+UID:20261001T1515_7726467679046930868@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -362,25 +177,25 @@ BEGIN:VEVENT
 SUMMARY:Инженерная графика (пр.)
 DTSTART;TZID=Asia/Barnaul:20261002T081500
 DTEND;TZID=Asia/Barnaul:20261002T094500
-UID:20261002T0815_4594859146926464130@altstu
-DESCRIPTION:Преподаватель: Гурьев А.М.заведую
- щий кафедрой\nАудитория: 202 ГК
+UID:20261002T0815_644987874333630110@altstu
+DESCRIPTION:Преподаватель: Малькова Н.Ю.старш
+ ий преподаватель\nАудитория: 202 ГК
 LOCATION:202 ГК
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Инженерная графика (пр.)
 DTSTART;TZID=Asia/Barnaul:20261002T081500
 DTEND;TZID=Asia/Barnaul:20261002T094500
-UID:20261002T0815_4594859146926464130@altstu
-DESCRIPTION:Преподаватель: Малькова Н.Ю.старш
- ий преподаватель\nАудитория: 202 ГК
+UID:20261002T0815_644987874333630110@altstu
+DESCRIPTION:Преподаватель: Гурьев А.М.заведую
+ щий кафедрой\nАудитория: 202 ГК
 LOCATION:202 ГК
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Высшая математика (пр.)
 DTSTART;TZID=Asia/Barnaul:20261002T095500
 DTEND;TZID=Asia/Barnaul:20261002T112500
-UID:20261002T0955_5518386479981076796@altstu
+UID:20261002T0955_3635592605319002954@altstu
 DESCRIPTION:Преподаватель: Гринева Т.В.доцент
  \nАудитория: 205 ПК
 LOCATION:205 ПК
@@ -390,7 +205,7 @@ SUMMARY:Компьютерная графика (л.р.\, подгрупп
  а Б)
 DTSTART;TZID=Asia/Barnaul:20261002T113500
 DTEND;TZID=Asia/Barnaul:20261002T130500
-UID:20261002T1135_8493581705824287484@altstu
+UID:20261002T1135_2119576668206269936@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -400,7 +215,7 @@ SUMMARY:Компьютерная графика (л.р.\, подгрупп
  а Б)
 DTSTART;TZID=Asia/Barnaul:20261002T133500
 DTEND;TZID=Asia/Barnaul:20261002T150500
-UID:20261002T1335_8493581705824287484@altstu
+UID:20261002T1335_2119576668206269936@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -409,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:История России (л.)
 DTSTART;TZID=Asia/Barnaul:20261003T081500
 DTEND;TZID=Asia/Barnaul:20261003T094500
-UID:20261003T0815_4369129429458893336@altstu
+UID:20261003T0815_1549806037707261355@altstu
 DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
  т
 END:VEVENT
@@ -418,7 +233,7 @@ SUMMARY:Основы российской государственност
  и (л.)
 DTSTART;TZID=Asia/Barnaul:20261003T095500
 DTEND;TZID=Asia/Barnaul:20261003T112500
-UID:20261003T0955_5290266234434300534@altstu
+UID:20261003T0955_7367422827032517486@altstu
 DESCRIPTION:Преподаватель: Цыганенко Н.В.доце
  нт
 END:VEVENT
@@ -427,7 +242,7 @@ SUMMARY:Введение в компьютерное моделирова
  ние (л.р.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20261005T151500
 DTEND;TZID=Asia/Barnaul:20261005T164500
-UID:20261005T1515_2556794811518922188@altstu
+UID:20261005T1515_471351460226681343@altstu
 DESCRIPTION:Преподаватель: Соловьев В.А.старш
  ий преподаватель\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -436,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Информатика (л.р.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261005T151500
 DTEND;TZID=Asia/Barnaul:20261005T164500
-UID:20261005T1515_1805570791822646301@altstu
+UID:20261005T1515_6970716206541708248@altstu
 DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
  ющий кафедрой\nАудитория: 264 ГК
 LOCATION:264 ГК
@@ -446,7 +261,7 @@ SUMMARY:Введение в компьютерное моделирова
  ние (л.р.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20261005T170500
 DTEND;TZID=Asia/Barnaul:20261005T183500
-UID:20261005T1705_2556794811518922188@altstu
+UID:20261005T1705_471351460226681343@altstu
 DESCRIPTION:Преподаватель: Соловьев В.А.старш
  ий преподаватель\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -455,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Информатика (л.р.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261005T170500
 DTEND;TZID=Asia/Barnaul:20261005T183500
-UID:20261005T1705_1805570791822646301@altstu
+UID:20261005T1705_6970716206541708248@altstu
 DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
  ющий кафедрой\nАудитория: 264 ГК
 LOCATION:264 ГК
@@ -464,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура и спорт (пр.)
 DTSTART;TZID=Asia/Barnaul:20261006T095500
 DTEND;TZID=Asia/Barnaul:20261006T112500
-UID:20261006T0955_7568120417446434508@altstu
+UID:20261006T0955_4488889834367220007@altstu
 DESCRIPTION:Преподаватель: Бердышева Е.В.стар
  ший преподаватель\nАудитория: кабинет Сп
  ортманеж
@@ -474,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура и спорт (пр.)
 DTSTART;TZID=Asia/Barnaul:20261006T095500
 DTEND;TZID=Asia/Barnaul:20261006T112500
-UID:20261006T0955_7568120417446434508@altstu
+UID:20261006T0955_4488889834367220007@altstu
 DESCRIPTION:Преподаватель: Мусатова Е.Г.старш
  ий преподаватель\nАудитория: кабинет Спо
  ртманеж
@@ -484,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Информатика (л.)
 DTSTART;TZID=Asia/Barnaul:20261006T113500
 DTEND;TZID=Asia/Barnaul:20261006T130500
-UID:20261006T1135_7952153400647596552@altstu
+UID:20261006T1135_4188280630616179249@altstu
 DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
  ющий кафедрой\nАудитория: 517 ГК
 LOCATION:517 ГК
@@ -494,7 +309,7 @@ SUMMARY:Основы российской государственност
  и (пр.)
 DTSTART;TZID=Asia/Barnaul:20261006T133500
 DTEND;TZID=Asia/Barnaul:20261006T150500
-UID:20261006T1335_1748622448536284898@altstu
+UID:20261006T1335_3941229080132978727@altstu
 DESCRIPTION:Преподаватель: Цыганенко Н.В.доце
  нт\nАудитория: 205 ПК
 LOCATION:205 ПК
@@ -503,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:История России (пр.)
 DTSTART;TZID=Asia/Barnaul:20261006T151500
 DTEND;TZID=Asia/Barnaul:20261006T164500
-UID:20261006T1515_6722988967584676326@altstu
+UID:20261006T1515_7563289107136782546@altstu
 DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
  т\nАудитория: 407 В
 LOCATION:407 В
@@ -512,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Химия (л.р.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20261007T095500
 DTEND;TZID=Asia/Barnaul:20261007T112500
-UID:20261007T0955_5284265015432361067@altstu
+UID:20261007T0955_6705296427501841323@altstu
 DESCRIPTION:Преподаватель: Чернова Н.П.доцент
  \nАудитория: 506 ГК
 LOCATION:506 ГК
@@ -521,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Компьютерная графика (л.)
 DTSTART;TZID=Asia/Barnaul:20261007T113500
 DTEND;TZID=Asia/Barnaul:20261007T130500
-UID:20261007T1135_8206252164968503931@altstu
+UID:20261007T1135_2153673802333033454@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 518 ГК
 LOCATION:518 ГК
@@ -530,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20261008T095500
 DTEND;TZID=Asia/Barnaul:20261008T112500
-UID:20261008T0955_8908706067075102780@altstu
+UID:20261008T0955_8624804413939391890@altstu
 DESCRIPTION:Преподаватель: Беседина В.Г.завед
  ующий кафедрой\nАудитория: 537-5 ГК
 LOCATION:537-5 ГК
@@ -539,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261008T095500
 DTEND;TZID=Asia/Barnaul:20261008T112500
-UID:20261008T0955_606867170976024877@altstu
+UID:20261008T0955_3635766520506679707@altstu
 DESCRIPTION:Преподаватель: Манухина И.А.доцен
  т\nАудитория: 251 ГК
 LOCATION:251 ГК
@@ -548,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа В)
 DTSTART;TZID=Asia/Barnaul:20261008T095500
 DTEND;TZID=Asia/Barnaul:20261008T112500
-UID:20261008T0955_2993403685449457534@altstu
+UID:20261008T0955_1381940644146950159@altstu
 DESCRIPTION:Преподаватель: Исакова О.В.доцент
  \nАудитория: 537-4 ГК
 LOCATION:537-4 ГК
@@ -557,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Инженерная графика (л.)
 DTSTART;TZID=Asia/Barnaul:20261008T113500
 DTEND;TZID=Asia/Barnaul:20261008T130500
-UID:20261008T1135_1352577959844751071@altstu
+UID:20261008T1135_4747175379894805846@altstu
 DESCRIPTION:Преподаватель: Шишковская И.Л.доц
  ент\nАудитория: 205 Г
 LOCATION:205 Г
@@ -566,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:История России (л.)
 DTSTART;TZID=Asia/Barnaul:20261008T133500
 DTEND;TZID=Asia/Barnaul:20261008T150500
-UID:20261008T1335_5900282980968249924@altstu
+UID:20261008T1335_68216877664330953@altstu
 DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
  т\nАудитория: 205 Г
 LOCATION:205 Г
@@ -575,25 +390,25 @@ BEGIN:VEVENT
 SUMMARY:Инженерная графика (л.р.)
 DTSTART;TZID=Asia/Barnaul:20261009T081500
 DTEND;TZID=Asia/Barnaul:20261009T094500
-UID:20261009T0815_1207584087664854776@altstu
-DESCRIPTION:Преподаватель: Малькова Н.Ю.старш
- ий преподаватель\nАудитория: 202 ГК
+UID:20261009T0815_846474931993324170@altstu
+DESCRIPTION:Преподаватель: Гурьев А.М.заведую
+ щий кафедрой\nАудитория: 202 ГК
 LOCATION:202 ГК
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Инженерная графика (л.р.)
 DTSTART;TZID=Asia/Barnaul:20261009T081500
 DTEND;TZID=Asia/Barnaul:20261009T094500
-UID:20261009T0815_1207584087664854776@altstu
-DESCRIPTION:Преподаватель: Гурьев А.М.заведую
- щий кафедрой\nАудитория: 202 ГК
+UID:20261009T0815_846474931993324170@altstu
+DESCRIPTION:Преподаватель: Малькова Н.Ю.старш
+ ий преподаватель\nАудитория: 202 ГК
 LOCATION:202 ГК
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Высшая математика (пр.)
 DTSTART;TZID=Asia/Barnaul:20261009T095500
 DTEND;TZID=Asia/Barnaul:20261009T112500
-UID:20261009T0955_3261555725883910440@altstu
+UID:20261009T0955_2209209588612113440@altstu
 DESCRIPTION:Преподаватель: Гринева Т.В.доцент
  \nАудитория: 506 В
 LOCATION:506 В
@@ -602,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Высшая математика (л.)
 DTSTART;TZID=Asia/Barnaul:20261009T113500
 DTEND;TZID=Asia/Barnaul:20261009T130500
-UID:20261009T1135_5685619820574342742@altstu
+UID:20261009T1135_4979814492185760295@altstu
 DESCRIPTION:Преподаватель: Гринева Т.В.доцент
  \nАудитория: 506 В
 LOCATION:506 В
@@ -611,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Информатика (л.р.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20261012T113500
 DTEND;TZID=Asia/Barnaul:20261012T130500
-UID:20261012T1135_8023141596522223708@altstu
+UID:20261012T1135_501763479202378541@altstu
 DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
  ющий кафедрой\nАудитория: 264 ГК
 LOCATION:264 ГК
@@ -621,7 +436,7 @@ SUMMARY:Введение в компьютерное моделирова
  ние (л.р.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261012T113500
 DTEND;TZID=Asia/Barnaul:20261012T130500
-UID:20261012T1135_4473241964590997086@altstu
+UID:20261012T1135_6671399570180790483@altstu
 DESCRIPTION:Преподаватель: Соловьев В.А.старш
  ий преподаватель\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -630,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:Информатика (л.р.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20261012T133500
 DTEND;TZID=Asia/Barnaul:20261012T150500
-UID:20261012T1335_8023141596522223708@altstu
+UID:20261012T1335_501763479202378541@altstu
 DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
  ющий кафедрой\nАудитория: 264 ГК
 LOCATION:264 ГК
@@ -640,7 +455,7 @@ SUMMARY:Введение в компьютерное моделирова
  ние (л.р.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261012T133500
 DTEND;TZID=Asia/Barnaul:20261012T150500
-UID:20261012T1335_4473241964590997086@altstu
+UID:20261012T1335_6671399570180790483@altstu
 DESCRIPTION:Преподаватель: Соловьев В.А.старш
  ий преподаватель\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -649,27 +464,27 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура и спорт (пр.)
 DTSTART;TZID=Asia/Barnaul:20261013T095500
 DTEND;TZID=Asia/Barnaul:20261013T112500
-UID:20261013T0955_7568120417446434508@altstu
-DESCRIPTION:Преподаватель: Бердышева Е.В.стар
- ший преподаватель\nАудитория: кабинет Сп
- ортманеж
-LOCATION:кабинет Спортманеж
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Физическая культура и спорт (пр.)
-DTSTART;TZID=Asia/Barnaul:20261013T095500
-DTEND;TZID=Asia/Barnaul:20261013T112500
-UID:20261013T0955_7568120417446434508@altstu
+UID:20261013T0955_4488889834367220007@altstu
 DESCRIPTION:Преподаватель: Мусатова Е.Г.старш
  ий преподаватель\nАудитория: кабинет Спо
  ртманеж
 LOCATION:кабинет Спортманеж
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт (пр.)
+DTSTART;TZID=Asia/Barnaul:20261013T095500
+DTEND;TZID=Asia/Barnaul:20261013T112500
+UID:20261013T0955_4488889834367220007@altstu
+DESCRIPTION:Преподаватель: Бердышева Е.В.стар
+ ший преподаватель\nАудитория: кабинет Сп
+ ортманеж
+LOCATION:кабинет Спортманеж
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Химия (л.)
 DTSTART;TZID=Asia/Barnaul:20261013T113500
 DTEND;TZID=Asia/Barnaul:20261013T130500
-UID:20261013T1135_295455467812748143@altstu
+UID:20261013T1135_3329583135831952906@altstu
 DESCRIPTION:Преподаватель: Чернова Н.П.доцент
  \nАудитория: 516 ГК
 LOCATION:516 ГК
@@ -679,7 +494,7 @@ SUMMARY:Основы российской государственност
  и (пр.)
 DTSTART;TZID=Asia/Barnaul:20261013T133500
 DTEND;TZID=Asia/Barnaul:20261013T150500
-UID:20261013T1335_605883753649446507@altstu
+UID:20261013T1335_3250296862980120430@altstu
 DESCRIPTION:Преподаватель: Цыганенко Н.В.доце
  нт\nАудитория: 506 В
 LOCATION:506 В
@@ -688,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:Высшая математика (л.)
 DTSTART;TZID=Asia/Barnaul:20261014T095500
 DTEND;TZID=Asia/Barnaul:20261014T112500
-UID:20261014T0955_9074113538537987915@altstu
+UID:20261014T0955_2276981487293765887@altstu
 DESCRIPTION:Преподаватель: Гринева Т.В.доцент
  \nАудитория: 520 ГК
 LOCATION:520 ГК
@@ -697,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:История России (пр.)
 DTSTART;TZID=Asia/Barnaul:20261014T113500
 DTEND;TZID=Asia/Barnaul:20261014T130500
-UID:20261014T1135_6722988967584676326@altstu
+UID:20261014T1135_7563289107136782546@altstu
 DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
  т\nАудитория: 407 В
 LOCATION:407 В
@@ -706,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:Химия (пр.)
 DTSTART;TZID=Asia/Barnaul:20261014T133500
 DTEND;TZID=Asia/Barnaul:20261014T150500
-UID:20261014T1335_5267822674224461257@altstu
+UID:20261014T1335_4960396329554458215@altstu
 DESCRIPTION:Преподаватель: Вихарев А.А.доцент
  \nАудитория: 508 ГК
 LOCATION:508 ГК
@@ -715,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа А)
 DTSTART;TZID=Asia/Barnaul:20261015T095500
 DTEND;TZID=Asia/Barnaul:20261015T112500
-UID:20261015T0955_8908706067075102780@altstu
+UID:20261015T0955_8624804413939391890@altstu
 DESCRIPTION:Преподаватель: Беседина В.Г.завед
  ующий кафедрой\nАудитория: 537-5 ГК
 LOCATION:537-5 ГК
@@ -724,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261015T095500
 DTEND;TZID=Asia/Barnaul:20261015T112500
-UID:20261015T0955_606867170976024877@altstu
+UID:20261015T0955_3635766520506679707@altstu
 DESCRIPTION:Преподаватель: Манухина И.А.доцен
  т\nАудитория: 251 ГК
 LOCATION:251 ГК
@@ -733,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык (пр.\, подгруппа В)
 DTSTART;TZID=Asia/Barnaul:20261015T095500
 DTEND;TZID=Asia/Barnaul:20261015T112500
-UID:20261015T0955_2993403685449457534@altstu
+UID:20261015T0955_1381940644146950159@altstu
 DESCRIPTION:Преподаватель: Исакова О.В.доцент
  \nАудитория: 537-4 ГК
 LOCATION:537-4 ГК
@@ -743,7 +558,7 @@ SUMMARY:Введение в компьютерное моделирова
  ние (л.)
 DTSTART;TZID=Asia/Barnaul:20261015T113500
 DTEND;TZID=Asia/Barnaul:20261015T130500
-UID:20261015T1135_4918577011794443831@altstu
+UID:20261015T1135_6246687278125869212@altstu
 DESCRIPTION:Преподаватель: Пронин С.П.професс
  ор\nАудитория: 519 ГК
 LOCATION:519 ГК
@@ -753,7 +568,7 @@ SUMMARY:Компьютерная графика (л.р.\, подгрупп
  а А)
 DTSTART;TZID=Asia/Barnaul:20261015T133500
 DTEND;TZID=Asia/Barnaul:20261015T150500
-UID:20261015T1335_2288990365684330372@altstu
+UID:20261015T1335_7726467679046930868@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -762,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:Химия (л.р.\, подгруппа Б)
 DTSTART;TZID=Asia/Barnaul:20261015T133500
 DTEND;TZID=Asia/Barnaul:20261015T150500
-UID:20261015T1335_5519912298408474148@altstu
+UID:20261015T1335_1865480031741341233@altstu
 DESCRIPTION:Преподаватель: Вихарев А.А.доцент
  \nАудитория: 506 ГК
 LOCATION:506 ГК
@@ -772,7 +587,7 @@ SUMMARY:Компьютерная графика (л.р.\, подгрупп
  а А)
 DTSTART;TZID=Asia/Barnaul:20261015T151500
 DTEND;TZID=Asia/Barnaul:20261015T164500
-UID:20261015T1515_2288990365684330372@altstu
+UID:20261015T1515_7726467679046930868@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -781,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:Инженерная графика (пр.)
 DTSTART;TZID=Asia/Barnaul:20261016T081500
 DTEND;TZID=Asia/Barnaul:20261016T094500
-UID:20261016T0815_4594859146926464130@altstu
+UID:20261016T0815_644987874333630110@altstu
 DESCRIPTION:Преподаватель: Малькова Н.Ю.старш
  ий преподаватель\nАудитория: 202 ГК
 LOCATION:202 ГК
@@ -790,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:Инженерная графика (пр.)
 DTSTART;TZID=Asia/Barnaul:20261016T081500
 DTEND;TZID=Asia/Barnaul:20261016T094500
-UID:20261016T0815_4594859146926464130@altstu
+UID:20261016T0815_644987874333630110@altstu
 DESCRIPTION:Преподаватель: Гурьев А.М.заведую
  щий кафедрой\nАудитория: 202 ГК
 LOCATION:202 ГК
@@ -799,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:Высшая математика (пр.)
 DTSTART;TZID=Asia/Barnaul:20261016T095500
 DTEND;TZID=Asia/Barnaul:20261016T112500
-UID:20261016T0955_5518386479981076796@altstu
+UID:20261016T0955_3635592605319002954@altstu
 DESCRIPTION:Преподаватель: Гринева Т.В.доцент
  \nАудитория: 205 ПК
 LOCATION:205 ПК
@@ -809,7 +624,7 @@ SUMMARY:Компьютерная графика (л.р.\, подгрупп
  а Б)
 DTSTART;TZID=Asia/Barnaul:20261016T113500
 DTEND;TZID=Asia/Barnaul:20261016T130500
-UID:20261016T1135_8493581705824287484@altstu
+UID:20261016T1135_2119576668206269936@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -819,7 +634,7 @@ SUMMARY:Компьютерная графика (л.р.\, подгрупп
  а Б)
 DTSTART;TZID=Asia/Barnaul:20261016T133500
 DTEND;TZID=Asia/Barnaul:20261016T150500
-UID:20261016T1335_8493581705824287484@altstu
+UID:20261016T1335_2119576668206269936@altstu
 DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
  ент\nАудитория: 426-а ГК
 LOCATION:426-а ГК
@@ -828,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:История России (л.)
 DTSTART;TZID=Asia/Barnaul:20261017T081500
 DTEND;TZID=Asia/Barnaul:20261017T094500
-UID:20261017T0815_4369129429458893336@altstu
+UID:20261017T0815_1549806037707261355@altstu
 DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
  т
 END:VEVENT
@@ -837,8 +652,193 @@ SUMMARY:Основы российской государственност
  и (л.)
 DTSTART;TZID=Asia/Barnaul:20261017T095500
 DTEND;TZID=Asia/Barnaul:20261017T112500
-UID:20261017T0955_5290266234434300534@altstu
+UID:20261017T0955_7367422827032517486@altstu
 DESCRIPTION:Преподаватель: Цыганенко Н.В.доце
  нт
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в компьютерное моделирова
+ ние (л.р.\, подгруппа А)
+DTSTART;TZID=Asia/Barnaul:20261019T151500
+DTEND;TZID=Asia/Barnaul:20261019T164500
+UID:20261019T1515_471351460226681343@altstu
+DESCRIPTION:Преподаватель: Соловьев В.А.старш
+ ий преподаватель\nАудитория: 426-а ГК
+LOCATION:426-а ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информатика (л.р.\, подгруппа Б)
+DTSTART;TZID=Asia/Barnaul:20261019T151500
+DTEND;TZID=Asia/Barnaul:20261019T164500
+UID:20261019T1515_6970716206541708248@altstu
+DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
+ ющий кафедрой\nАудитория: 264 ГК
+LOCATION:264 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Введение в компьютерное моделирова
+ ние (л.р.\, подгруппа А)
+DTSTART;TZID=Asia/Barnaul:20261019T170500
+DTEND;TZID=Asia/Barnaul:20261019T183500
+UID:20261019T1705_471351460226681343@altstu
+DESCRIPTION:Преподаватель: Соловьев В.А.старш
+ ий преподаватель\nАудитория: 426-а ГК
+LOCATION:426-а ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информатика (л.р.\, подгруппа Б)
+DTSTART;TZID=Asia/Barnaul:20261019T170500
+DTEND;TZID=Asia/Barnaul:20261019T183500
+UID:20261019T1705_6970716206541708248@altstu
+DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
+ ющий кафедрой\nАудитория: 264 ГК
+LOCATION:264 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт (пр.)
+DTSTART;TZID=Asia/Barnaul:20261020T095500
+DTEND;TZID=Asia/Barnaul:20261020T112500
+UID:20261020T0955_4488889834367220007@altstu
+DESCRIPTION:Преподаватель: Бердышева Е.В.стар
+ ший преподаватель\nАудитория: кабинет Сп
+ ортманеж
+LOCATION:кабинет Спортманеж
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физическая культура и спорт (пр.)
+DTSTART;TZID=Asia/Barnaul:20261020T095500
+DTEND;TZID=Asia/Barnaul:20261020T112500
+UID:20261020T0955_4488889834367220007@altstu
+DESCRIPTION:Преподаватель: Мусатова Е.Г.старш
+ ий преподаватель\nАудитория: кабинет Спо
+ ртманеж
+LOCATION:кабинет Спортманеж
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Информатика (л.)
+DTSTART;TZID=Asia/Barnaul:20261020T113500
+DTEND;TZID=Asia/Barnaul:20261020T130500
+UID:20261020T1135_4188280630616179249@altstu
+DESCRIPTION:Преподаватель: Зрюмова А.Г.заведу
+ ющий кафедрой\nАудитория: 517 ГК
+LOCATION:517 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Основы российской государственност
+ и (пр.)
+DTSTART;TZID=Asia/Barnaul:20261020T133500
+DTEND;TZID=Asia/Barnaul:20261020T150500
+UID:20261020T1335_3941229080132978727@altstu
+DESCRIPTION:Преподаватель: Цыганенко Н.В.доце
+ нт\nАудитория: 205 ПК
+LOCATION:205 ПК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России (пр.)
+DTSTART;TZID=Asia/Barnaul:20261020T151500
+DTEND;TZID=Asia/Barnaul:20261020T164500
+UID:20261020T1515_7563289107136782546@altstu
+DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
+ т\nАудитория: 407 В
+LOCATION:407 В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Химия (л.р.\, подгруппа А)
+DTSTART;TZID=Asia/Barnaul:20261021T095500
+DTEND;TZID=Asia/Barnaul:20261021T112500
+UID:20261021T0955_6705296427501841323@altstu
+DESCRIPTION:Преподаватель: Чернова Н.П.доцент
+ \nАудитория: 506 ГК
+LOCATION:506 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Компьютерная графика (л.)
+DTSTART;TZID=Asia/Barnaul:20261021T113500
+DTEND;TZID=Asia/Barnaul:20261021T130500
+UID:20261021T1135_2153673802333033454@altstu
+DESCRIPTION:Преподаватель: Чепуштанов А.А.доц
+ ент\nАудитория: 518 ГК
+LOCATION:518 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык (пр.\, подгруппа А)
+DTSTART;TZID=Asia/Barnaul:20261022T095500
+DTEND;TZID=Asia/Barnaul:20261022T112500
+UID:20261022T0955_8624804413939391890@altstu
+DESCRIPTION:Преподаватель: Беседина В.Г.завед
+ ующий кафедрой\nАудитория: 537-5 ГК
+LOCATION:537-5 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык (пр.\, подгруппа Б)
+DTSTART;TZID=Asia/Barnaul:20261022T095500
+DTEND;TZID=Asia/Barnaul:20261022T112500
+UID:20261022T0955_3635766520506679707@altstu
+DESCRIPTION:Преподаватель: Манухина И.А.доцен
+ т\nАудитория: 251 ГК
+LOCATION:251 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Иностранный язык (пр.\, подгруппа В)
+DTSTART;TZID=Asia/Barnaul:20261022T095500
+DTEND;TZID=Asia/Barnaul:20261022T112500
+UID:20261022T0955_1381940644146950159@altstu
+DESCRIPTION:Преподаватель: Исакова О.В.доцент
+ \nАудитория: 537-4 ГК
+LOCATION:537-4 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инженерная графика (л.)
+DTSTART;TZID=Asia/Barnaul:20261022T113500
+DTEND;TZID=Asia/Barnaul:20261022T130500
+UID:20261022T1135_4747175379894805846@altstu
+DESCRIPTION:Преподаватель: Шишковская И.Л.доц
+ ент\nАудитория: 205 Г
+LOCATION:205 Г
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России (л.)
+DTSTART;TZID=Asia/Barnaul:20261022T133500
+DTEND;TZID=Asia/Barnaul:20261022T150500
+UID:20261022T1335_68216877664330953@altstu
+DESCRIPTION:Преподаватель: Голуенко Т.А.доцен
+ т\nАудитория: 205 Г
+LOCATION:205 Г
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инженерная графика (л.р.)
+DTSTART;TZID=Asia/Barnaul:20261023T081500
+DTEND;TZID=Asia/Barnaul:20261023T094500
+UID:20261023T0815_846474931993324170@altstu
+DESCRIPTION:Преподаватель: Малькова Н.Ю.старш
+ ий преподаватель\nАудитория: 202 ГК
+LOCATION:202 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инженерная графика (л.р.)
+DTSTART;TZID=Asia/Barnaul:20261023T081500
+DTEND;TZID=Asia/Barnaul:20261023T094500
+UID:20261023T0815_846474931993324170@altstu
+DESCRIPTION:Преподаватель: Гурьев А.М.заведую
+ щий кафедрой\nАудитория: 202 ГК
+LOCATION:202 ГК
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Высшая математика (пр.)
+DTSTART;TZID=Asia/Barnaul:20261023T095500
+DTEND;TZID=Asia/Barnaul:20261023T112500
+UID:20261023T0955_2209209588612113440@altstu
+DESCRIPTION:Преподаватель: Гринева Т.В.доцент
+ \nАудитория: 506 В
+LOCATION:506 В
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Высшая математика (л.)
+DTSTART;TZID=Asia/Barnaul:20261023T113500
+DTEND;TZID=Asia/Barnaul:20261023T130500
+UID:20261023T1135_4979814492185760295@altstu
+DESCRIPTION:Преподаватель: Гринева Т.В.доцент
+ \nАудитория: 506 В
+LOCATION:506 В
 END:VEVENT
 END:VCALENDAR
